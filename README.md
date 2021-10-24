@@ -1,4 +1,4 @@
-## Available Scripts
+## Weather App
 
 This is a weather app made with react. 
 Search for a city, and get a 5 day forecast for it.
