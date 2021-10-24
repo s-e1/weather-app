@@ -1,0 +1,19 @@
+.searchBar {
+    padding: 20px;
+}
+
+.searchBar input {
+    margin-left: 20px;
+}
+
+.searchResults {
+    width: 200px;
+}
+
+.searchItem:hover {
+    background-color: lightgray;
+}
+
+.searchItem:active {
+    background-color: darkgray;
+}

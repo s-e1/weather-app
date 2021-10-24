@@ -1,0 +1,14 @@
+.cityCard {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(100, 156, 201);
+    width: 100px;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+
+.cityCard:hover {
+    top: -7px;
+}
