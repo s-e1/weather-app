@@ -1,5 +1,5 @@
 import axios from "axios";
-const server = "https://cl-weather-app1.herokuapp.com/" || "http://localhost:8000/";
+const server = "https://weather-app-serv.herokuapp.com/" || "http://localhost:8000/";
 
 export const getSearchRequest = async (cityName) => {
     if (!cityName) return [];
